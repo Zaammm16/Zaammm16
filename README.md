@@ -85,8 +85,14 @@
 
 ###
 
-<br clear="both">
+<p align="left">Lets Play !</p>
 
-<img src=".github/workflows/snake.yml" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaammm16/zaammm16/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaammm16/zaammm16/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zaammm16/zaammm16/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
