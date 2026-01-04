@@ -15,15 +15,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zaammm16.zaammm16&"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+[![](https://visitcount.itsvg.in/api?id=zaammm16&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ###
 
@@ -74,18 +66,22 @@
 </div>
 
 ###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zaammm16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zaammm16&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=zaammm16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zaammm16&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaammm16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
-<p align="left">Lets Play !</p>
+## 🧩 Lets Play! 
 
 ###
 
@@ -96,3 +92,7 @@
 </picture>
 
 ###
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zaammm16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
